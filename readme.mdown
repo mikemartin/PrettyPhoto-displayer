@@ -1,5 +1,7 @@
 I developed this plugin for my own portfolio website as their were currently no lightbox plugins available for The Secretary CMS. I decided to utilize the jQuery lighbox clone 'prettyPhoto': 
-http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/
+<http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/>
+
+You can see the plugin in action on my website: <http://www.michaelmartin.ca/web/>
 
 ## Install
 
