@@ -5,9 +5,9 @@ http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/
 
 1. Upload 'prettyphoto' folder to /system/plugins/displayers/
 2. Add line to displayers.plugin.php located in the displayers folder.
-    $defaults= array(
+    "$defaults= array(
         'prettyPhoto'	=>	"prettyphoto"
-    );
+    );"
 
 ## Usage
 
