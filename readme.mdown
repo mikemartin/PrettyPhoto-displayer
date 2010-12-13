@@ -1,4 +1,3 @@
-
 I developed this plugin for my own portfolio website as their were currently no lightbox plugins available for The Secretary CMS. I decided to utilize the jQuery lighbox clone 'prettyPhoto': 
 http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/
 
@@ -6,9 +5,9 @@ http://www.no-margin-for-errors.com/projects/prettyphoto-jquery-lightbox-clone/
 
 1. Upload 'prettyphoto' folder to /system/plugins/displayers/
 2. Add line to displayers.plugin.php located in the displayers folder.
-	$defaults= array(
-		'prettyPhoto'	=>	"prettyphoto"
-	);
+    $defaults= array(
+        'prettyPhoto'	=>	"prettyphoto"
+    );
 
 ## Usage
 
