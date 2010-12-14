@@ -1,6 +1,6 @@
 This is a plugin for Secretary CMS. <http://www.thesecretary.org>
 
-When installed, this plugin will one or more project items into a prettyPhoto lightbox. 
+When installed, this plugin will load one or more project items into a prettyPhoto lightbox. 
 
 You can see the plugin in action on my website: <http://www.michaelmartin.ca/web/>
 
